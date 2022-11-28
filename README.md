@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm M K Naimul Hasan</h1>
 <h3 align="center">Student of Computer Science(Software Engineering) at Brunel University London.</h3>
-<img align="right" alt="Animated Picture" width="400" src=""C:\Users\mknai\Downloads\github1.jpg">
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mknaimulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mknaimulhasan" /> </p>
 
 - 💼Working on a university group project [Zero Hunger](https://github.com/BrunelCS/cs2001-2022_23-group-7-1.git)
