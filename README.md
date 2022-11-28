@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm M K Naimul Hasan</h1>
 <h3 align="center">Student of Computer Science(Software Engineering) at Brunel University London.</h3>
+<img align="right" alt="Animated Picture" width="400" src=""C:\Users\mknai\Downloads\github1.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mknaimulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mknaimulhasan" /> </p>
 
