@@ -7,7 +7,7 @@
 
 - 🌱Currently learning **HTML and CSS frameworks, JavaScript**
 
-- 📫 How to reach me **mknaimulhasan@gmail.com**
+- 📫Reach me on **mknaimulhasan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
