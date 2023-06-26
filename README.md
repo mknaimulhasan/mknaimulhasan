@@ -5,9 +5,11 @@
 
 - 🔭 Working on my Coding Proficiency to develop my problem solving skills and passionate about implementing and launching new projects.
 
-- 🌱 
+- 🌱 Open to collaborating on Open Source projects.
 
-- 📫Reach me on **mknaimulhasan@outlook.com**
+- 💼 Seeking to launch my career in the IT sector with a technology-driven and reputable firm.
+
+- 📫 Reach me on **mknaimulhasan@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
