@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mknaimulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mknaimulhasan" /> </p>
 
-- 💼Working on a university group project [Zero Hunger](https://github.com/BrunelCS/cs2001-2022_23-group-7-1.git)
+- 🔭 Working on my Coding Proficiency to develop my problem solving skills and passionate about implementing and launching new projects.
 
-- 🌱Currently learning **HTML and CSS frameworks, JavaScript**
+- 🌱 
 
 - 📫Reach me on **mknaimulhasan@outlook.com**
 
